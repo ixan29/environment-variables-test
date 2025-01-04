@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# environment file
+.env
+
 # tsc
 /src/**/*.js
 
